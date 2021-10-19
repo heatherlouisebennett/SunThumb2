@@ -44,5 +44,10 @@ dependencies {
     implementation(Deps.materialDesign)
     implementation(Deps.timber)
     implementation(Deps.constraintLayout)
+    implementation(Deps.jetpackComposeAnimation)
+    implementation(Deps.jetpackComposeCompiler)
+    implementation(Deps.jetpackComposeFoundation)
+    implementation(Deps.jetpackComposeRuntime)
+    implementation(Deps.jetpackComposeUi)
     testImplementation(Deps.junit)
 }

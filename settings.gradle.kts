@@ -1,2 +1,2 @@
-rootProject.name = "android_sample_dsl"
+rootProject.name = "SunThumb"
 include(":app")
